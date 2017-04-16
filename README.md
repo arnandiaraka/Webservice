@@ -1,10 +1,10 @@
 # Json4
-Membuat Perkiraan cuaca
+Web Service Prakiraan Cuaca
 <br>
-Nama : Mirza Rizky Lutfianto
+Nama : Arnandia Raka W
 <br>
-Nim : 14.01.55.0044
+Nim : 14.01.55.0068
 <br>
-WEB SERVICE 
+TUGAS UTS
 <br>
 UNIVERSITAS STIKUBANK SEMARANG
